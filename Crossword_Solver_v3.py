@@ -39,6 +39,8 @@ searchXW(xw, "neige");
 searchXW(xw, "hiver");
 searchXW(xw, "chiminee");
 
+searchXW(xw, "saxeida");
+
 
 searchXW(xw, "noel");
 searchXW(xw, "pere noel");

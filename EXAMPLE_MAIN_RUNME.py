@@ -1,19 +1,22 @@
 ##############################################################
 # CROSSWORD:     
-#    Bart McCoy
-#    1/6/2018
-#    for Python 3.6, requiring modules "numpy" and "os" 
+# Bart McCoy
+# 1/6/2018
+# for Python 3.6, requiring additional modules "numpy" and "os"
 # 
 # OVERVIEW:
-# I ALWAYS HATED SCHOOL-STYLE "CROSSWORDS" OR SIMPLY "WORD SEARCHES"
-# THIS PROGRAM AUTOMATES A CROSSWORD WORD SEARCH USING 
-# SCHOOL-STYLE WORD SEARCHES, CONSISTING OF A RECTANGULAR
+# I ALWAYS HATED SCHOOL-STYLE "CROSSWORDS" OR SIMPLY "WORD SEARCHES".
+# THIS PROGRAM AUTOMATES WORD SEARCHES IN A SCHOOL-STYLE, RECTANGULAR 
 # BLOCK OF LETTERS WITH WORDS BURIED IN THEM.  
-# THE GOAL IS TO FIND THE WORDS ALONG ROWS, COLUMNS, OR DIAGONALS, IN
+#
+# THE GOAL:
+# TO FIND THE WORDS ALONG ROWS, COLUMNS, OR DIAGONALS, IN
 # FORWARD OR REVERSE DIRECTIONS.  IT PRINTS THE CROSSWORD, HIGHLIGHTING
 # THE WORDS IT FINDS.
 #
-# NOTE:  This is NOT related to the NY Times style Crossword Puzzles
+# NOTE:  This is NOT related to the NY Times style 
+#        crossword puzzles
+##############################################################
 #
 # 
 # EXAMPLE:
